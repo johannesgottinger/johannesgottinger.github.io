@@ -19,4 +19,5 @@ body {
 
 .ul1{
   float: left;
+  list-style-type: none;
 }
